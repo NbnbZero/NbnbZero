@@ -3,7 +3,7 @@
 - 🌱 Bachelor: THE Ohio State University (2015 - 2019)
 - ✨ Master: University of Southern California (2020 - 2022)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NbnbZero&count_private=true&show_icons=true&theme=cobalt
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NbnbZero&include_all_commits=true&count_private=true&show_icons=true&theme=dracula
 )](https://github.com/NbnbZero/github-readme-stats)
 
 
