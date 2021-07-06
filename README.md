@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @NbnbZero
-- 👀 I’m interested in NeuralNetworks, Artificial Intelligence, Data Mining
-- 🌱 I’m currently studying in University of Southern California
+- 👋 Hi, I’m @NbnbZero / Chen Ling / 凌晨
+- 👀 I’m interested in NeuralNetworks, Artificial Intelligence and Data Mining
+- 🌱 Bachelor: THE Ohio State University (2015 - 2019)
+- ✨ Master: University of Southern California (2020 - 2022)
 
 <!---
 NbnbZero/NbnbZero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
